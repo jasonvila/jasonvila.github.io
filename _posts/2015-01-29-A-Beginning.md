@@ -1,6 +1,6 @@
 ---
 layout: post
-title: January 24th Week Blog
+title: Week 1 - January 24th Week Blog
 ---
 
 On the topic of CS371P:
