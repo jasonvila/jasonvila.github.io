@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Week 1 - January 24th Week Blog
+permalink: /cs371p/week-1
 ---
 
 On the topic of CS371P:

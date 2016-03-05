@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Week 3 - February 7th Week Blog
+permalink: /cs371p/week-3
 ---
 
 On the topic of CS371P.
