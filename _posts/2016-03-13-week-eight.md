@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_cs371p
 title: Week 8 - March 13th Week Blog
 permalink: /cs371p/week-8
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_cs371p
 title: Week 1 - January 24th Week Blog
 permalink: /cs371p/week-1
 ---

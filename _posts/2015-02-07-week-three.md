@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_cs371p
 title: Week 3 - February 7th Week Blog
 permalink: /cs371p/week-3
 ---
