@@ -2,6 +2,7 @@
 layout: post_cs371p
 title: Week 1 - January 24th Week Blog
 permalink: /cs371p/week-1
+categories: cs371p
 ---
 
 On the topic of CS371P:
