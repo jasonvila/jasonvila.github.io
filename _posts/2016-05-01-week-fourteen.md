@@ -12,18 +12,24 @@ Core Questions:
 1. What did you do this past week?
 
 
+
 2. What is in your way?
+
 
 
 3. What will you do next week?
 
 
+
 My experiences with CS371P this week:
+
 
 
 My reactions to CS371P material this week:
 
 
+
 Tip of the Week:
+
 
 
